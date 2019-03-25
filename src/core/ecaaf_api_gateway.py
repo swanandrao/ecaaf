@@ -10,9 +10,9 @@ from dmisc import ecaaf_auth, ecaaf_config, ecaaf_db, ecaaf_logger, ecaaf_utils
 from dmisc import ecaaf_context_dispatch
 
 __author__      = "Swanand Rao"
-__copyright__   = ""
+__copyright__   = "2019 Swanand Rao"
 __credits__     = ["Swanand Rao"]
-__license__     = ""
+__license__     = "Apache 2.0"
 __version__     = "0.1"
 __maintainer__  = "Swanand Rao"
 __email__       = "swanand.rao@gmail.com"
