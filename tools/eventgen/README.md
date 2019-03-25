@@ -19,7 +19,7 @@ event is as follows:
     "request_type": "the request type(POST,GET,PUT)",                   
     "service_url": "url of the ecaaf api service(default: http://localhost:5000)",   
     "event": {                                
-        "event_name": "event name : <event_name>.<source_id>",         
+        "event_name": "<event_name>.<source_id>",         
         "params": {  
             "user_param":"value",
             "cust_name": "test_101"           
