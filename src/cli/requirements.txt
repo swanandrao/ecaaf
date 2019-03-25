@@ -1,0 +1,10 @@
+flask
+flask-httpauth
+redis
+docker
+confluent-kafka
+requests
+click
+prompt_toolkit
+pygments
+werkzeug
