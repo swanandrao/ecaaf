@@ -14,7 +14,7 @@ Event definition:
 -----------------
 eventgen tool uses event.json file to construct an event. The JSON definition of
 event is as follows:
-```json
+```javascript
 {
     "request_type": "the request type(POST,GET,PUT)",                   
     "service_url": "url of the ecaaf api service(default: http://localhost:5000)",   
