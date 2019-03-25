@@ -1,0 +1,10 @@
+{
+    "request_type": "post",
+    "service_url": "http://localhost:5000",
+    "event": {
+        "event_name": "test_event.1",
+        "params": {
+            "cust_name": "test_101"
+            }
+    }
+}
