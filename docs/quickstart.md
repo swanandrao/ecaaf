@@ -1,9 +1,9 @@
 ## Prerequisites:
 
 Server
-  1. Docker
-  2. Kafka
-  3. Redshift
+  1. Docker - [get it](https://docs.docker.com/install/)
+  2. Kafka - [get it](https://kafka.apache.org/quickstart)
+  3. Redshift - [get it](https://redis.io/topics/quickstart)
   4. [Python dependencies](/install/server/requirements.txt)
 
 Cli
