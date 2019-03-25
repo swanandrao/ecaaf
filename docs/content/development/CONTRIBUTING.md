@@ -41,7 +41,7 @@ When submitting a pull request (PR), please use the following guidelines:
 
 1. Fork the swanandrao/ecaaf repository into your GitHub account
 
-    https://github.com/swanand/ecaaf/fork
+    https://github.com/swanandrao/ecaaf/fork
 
 1. Clone your fork of the GitHub repository
 
