@@ -42,7 +42,7 @@ For instructions on building ecaaf from source, see [docs/content/development/bu
 
 ### Contributing
 
-Please follow the guidelines [here](/docs/content/development/CONTRIBUTING.md) send an email to joinecaaf@gmail.com for any queries.
+Please follow the guidelines [here](/docs/content/development/CONTRIBUTING.md), send an email to joinecaaf@gmail.com for any queries.
 
 
 **NOTE: Project is under incubation.**
