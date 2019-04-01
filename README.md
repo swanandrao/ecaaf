@@ -44,7 +44,7 @@ For instructions on building Ghungroos from source, see [docs/content/developmen
 
 Please follow the guidelines [here](/docs/content/development/CONTRIBUTING.md), send an email to joinecaaf@gmail.com for any queries.
 
-## What is a Ghungroo? - [Wikipedia](https://en.wikipedia.org/wiki/Ghungroo)
+### What is a Ghungroo? - [Wikipedia](https://en.wikipedia.org/wiki/Ghungroo)
 
 
 **NOTE: Project is under incubation.**
