@@ -16,9 +16,9 @@
   ~ specific language governing permissions and limitations
   ~ under the License.
   -->
-## ecaaf (incubating)
+## Khaas (incubating)
 
-ecaaf is an open source event driven functional programming service for edge computing. It introduces an event driven programming paradigm for the edge. A big motivation of ecaaf is to provide a collaborative platform for the IoT ecosystem. ecaaf achieves this via the ecaaf catalog. The catalog acts as a funclet store for organizations and developer community can contribute. Such a rich colloboration would eventually facilitate the creation of a unified fabric across the IoT stack(Edge, Fog and Cloud).
+Khaas is an open source event driven functional programming service for edge computing. It introduces an event driven programming paradigm for the edge. A big motivation of Khaas is to provide a collaborative platform for the IoT ecosystem. Khaas achieves this via the Khaas catalog. The catalog acts as a funclet store for organizations and developer community can contribute. Such a rich colloboration would eventually facilitate the creation of a unified fabric across the IoT stack(Edge, Fog and Cloud).
 
 ### License
 
@@ -26,7 +26,7 @@ ecaaf is an open source event driven functional programming service for edge com
 
 ### Getting Started
 
-You can get started with ecaaf with our [quickstart](/docs/quickstart.md).
+You can get started with Khaas with our [quickstart](/docs/quickstart.md).
 
 ### Reporting Issues
 
@@ -38,7 +38,7 @@ All those who are interested in contributing to the effort are welcome!
 
 ### Building From Source
 
-For instructions on building ecaaf from source, see [docs/content/development/build.md](https://github.com/swanandrao/ecaaf/docs/content/development/build.md)
+For instructions on building Khaas from source, see [docs/content/development/build.md](https://github.com/swanandrao/ecaaf/docs/content/development/build.md)
 
 ### Contributing
 
