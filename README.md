@@ -18,7 +18,7 @@
   -->
 ## Khaas (incubating)
 
-Khaas is an open source event driven functional programming service for edge computing. It introduces an event driven programming paradigm for the edge or edge computing as a function (ecaaf). A big motivation of Khaas is to provide a collaborative platform for the IoT ecosystem. Khaas achieves this via the Khaas catalog. The catalog acts as a funclet store for organizations and developer community can contribute. Such a rich colloboration would eventually facilitate the creation of a unified fabric across the IoT stack(Edge, Fog and Cloud).
+Khaas is an open source event driven functional programming service for edge computing. It introduces an event driven programming paradigm for the edge or edge computing as a function (ecaaf). A big motivation of Khaas is to provide a collaborative platform for the IoT ecosystem. Khaas achieves this via the catalog, the catalog acts as a funclet store for organizations and developer community can contribute. Such a rich colloboration would eventually facilitate the creation of a unified fabric across the IoT stack(Edge, Fog and Cloud).
 
 ### License
 
