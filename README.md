@@ -16,9 +16,9 @@
   ~ specific language governing permissions and limitations
   ~ under the License.
   -->
-## Khaas (incubating)
+## Ghungroos (incubating)
 
-Khaas is an open source event driven functional programming service for edge computing. It introduces an event driven programming paradigm for the edge or edge computing as a function (ecaaf). A big motivation of Khaas is to provide a collaborative platform for the IoT ecosystem. Khaas achieves this via the catalog, the catalog acts as a funclet store for organizations and developer community can contribute. Such a rich colloboration would eventually facilitate the creation of a unified fabric across the IoT stack(Edge, Fog and Cloud).
+Ghungroos is an open source event driven functional programming service for edge computing. It introduces an event driven programming paradigm for the edge or edge computing as a function (ecaaf). A big motivation of Ghungroos is to provide a collaborative platform for the IoT ecosystem. Ghungroos achieves this via the catalog, the catalog acts as a funclet store for organizations and developer community can contribute. Such a rich colloboration would eventually facilitate the creation of a unified fabric across the IoT stack(Edge, Fog and Cloud).
 
 ### License
 
@@ -26,7 +26,7 @@ Khaas is an open source event driven functional programming service for edge com
 
 ### Getting Started
 
-You can get started with Khaas with our [quickstart](/docs/quickstart.md).
+You can get started with Ghungroos with our [quickstart](/docs/quickstart.md).
 
 ### Reporting Issues
 
@@ -38,11 +38,13 @@ All those who are interested in contributing to the effort are welcome!
 
 ### Building From Source
 
-For instructions on building Khaas from source, see [docs/content/development/build.md](https://github.com/swanandrao/ecaaf/docs/content/development/build.md)
+For instructions on building Ghungroos from source, see [docs/content/development/build.md](https://github.com/swanandrao/ecaaf/docs/content/development/build.md)
 
 ### Contributing
 
 Please follow the guidelines [here](/docs/content/development/CONTRIBUTING.md), send an email to joinecaaf@gmail.com for any queries.
+
+## What is a Ghungroo - [Wikipedia] (https://en.wikipedia.org/wiki/Ghungroo)
 
 
 **NOTE: Project is under incubation.**
