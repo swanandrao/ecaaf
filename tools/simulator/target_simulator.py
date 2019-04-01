@@ -44,7 +44,7 @@ def not_found(error):
 
 @app.route('/api/testsim/v1/testconfig', methods = ['POST'])
 @auth.login_required
-def ecaaf_test_config(target_pool, target_project):
+def ecaaf_test_config():
     return jsonify({"return code": "sucess"}})
 
 
