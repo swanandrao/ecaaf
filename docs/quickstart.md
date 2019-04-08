@@ -9,8 +9,6 @@ Server
 Cli
   1. [Python dependencies](/install/cli/requirements.txt)
 
-## Initial setup:
-
 ## Configurations:
 
 Configuration settings are defined in the [ecaaf_config.py](/src/core/dmisc/ecaaf_config.py), the following are the tunables that can be changed:
