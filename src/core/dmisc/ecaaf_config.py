@@ -18,9 +18,9 @@ __paths={
     'ecaaf_logging':'/tmp/trials/logs',
     'action_config':'action.ecaaf',
     'boilerplate_path':'/ecaaf/src/boilerplate',
-    'domain_folder':'/ecaaf/ecaaf.catalog',
+    'domain_folder':'/ecaaf/.catalog',
     'image_config_file':'config',
-    'app_folder':'/ecaaf/ecaaf.catalog/apps'
+    'app_folder':'/ecaaf/.catalog/apps'
 }
 __kafa_consumer = {
     'bootstrap.servers': 'localhost:9092',
