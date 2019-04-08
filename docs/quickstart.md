@@ -15,7 +15,7 @@ Cli
 
 Configuration settings are defined in the [ecaaf_config.py](/src/core/dmisc/ecaaf_config.py), the following are the tunables that can be changed:
 
-# Path configurations:
+### Path configurations:
 ```
   __paths={
     'install_dir':'/home/user',
@@ -32,7 +32,7 @@ Configuration settings are defined in the [ecaaf_config.py](/src/core/dmisc/ecaa
     'app_folder':'/ecaaf/.catalog/apps'
 }
 ```
-# Kafka configurations:
+### Kafka configurations:
 ```
 __kafa_consumer = {
     'bootstrap.servers': 'localhost:9092',
@@ -43,14 +43,14 @@ __kafa_consumer = {
     'default.topic.config': {'auto.offset.reset': 'smallest'}
 }
 ```
-# Redis configurations:
+### Redis configurations:
 ```
 __redis={
     'host':'localhost',
     'port':6379
 }
 ```
-# API gateway configurations:
+### API gateway configurations:
 ```
 __apigateway={
     'host':'0.0.0.0',
